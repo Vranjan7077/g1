@@ -12,4 +12,6 @@
 3. CSS Animations and shapes
 4. Light/Dark mode
 
+![Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+
 
