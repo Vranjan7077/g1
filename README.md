@@ -6,9 +6,9 @@
 
 ### Features
 
-1.React Spring Parallax effects
-2.Theme UI-based theming
-3.CSS Animations and shapes
-4.Light/Dark mode
+1. React Spring Parallax effects
+2. Theme UI-based theming
+3. CSS Animations and shapes
+4. Light/Dark mode
 
 
